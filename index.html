@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+
+<style>
+    * {
+        box-sizing: border-box;
+    }
+
+    body {
+        font-family: Arial, Helvetica, sans-serif;
+        line-height: 1.4em;
+    }
+
+    .left {
+        float: left;
+        width: 48%;
+        height: 200px;
+    }
+    .right {
+        float: right;
+        width: 48%;
+        height: 200px
+    }
+
+    .box {
+        border: solid 1px orangered;
+        background-color: rgb(237, 151, 119);
+        height: 270px;
+    }
+
+    .button-style {
+        text-decoration: none;
+        background-color: brown;
+        color: green
+        font-size: 20px;
+        padding: 10px;
+        border-ra
+    }
+
+    .button-style:active {
+        color: red;
+    }
+
+    .button-style:hover {
+        background-color: magenta;
+    }
+
+    .button {
+        background-color: gray;
+        color: black;
+        
+    }
+    /* .button-style:visited {
+        color: white;
+    } */
+
+    #hijoguesser > p {
+        color: lightblue;
+    }
+
+    .last-child-example p:last-child:hover {
+        color: red;
+    }
+</style>
+
+
+<body>
+    <header>
+        <section>
+            <div class="left box">
+                <h3>HTML & CSS</h3>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, excepturi doloremque sint pariatur magnam deleniti aliquam ratione consectetur officiis earum totam maxime, voluptatibus est, suscipit a tempora veniam accusamus cum?
+                </p>
+                <a href="#" class="button-style">The left button</a>
+            </div>
+            <div class="right box">
+                <h3>JS, vue</h3>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi tenetur quos vero voluptate exercitationem aspernatur earum magnam nisi molestias voluptates dolorum porro, distinctio alias minus omnis sequi eligendi et id.
+                </p>
+                <a href="#" class="button-style">The right button</a>
+            </div>
+        </section>
+    </header>
+    <footer>
+        <button class="button">My button</button>
+        <div id="hijoguesser">
+            <p>Hola soy el hijo</p>
+            <div>
+                <p>Hola soy el otro hijo</p>
+            </div>
+        </div>
+        <hr />
+
+        <div>
+            <div>
+                <p>Hola Mundo</p>
+                <p>Hello World</p>
+                <p>Hola Mon</p>
+            </div>
+            <hr />
+            <div>
+                <p>Yendo a la calle</p>
+                <p>Going to the street</p>
+                <p>Anant al carrer</p>
+            </div>
+            <hr />
+            <div>
+                <p>Me gustan los helados</p>
+                <p>I like ice cream</p>
+                <p>M'agraden els gelats</p>
+            </div>
+            <hr />
+            <div>
+                <p>Hola Mundo</p>
+                <p>Hello World</p>
+                <p>Hola Mon</p>
+            <div>
+                <hr />
+                <p>Yendo a la calle</p>
+                <p>Going to the street</p>
+                <p>Anant al carrer</p>
+            </div>
+            <hr />
+            <div class="last-child-example">
+                <p>Me gustan los helados</p>
+                <p>I like ice cream</p>
+                <p>M'agraden els gelats</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
