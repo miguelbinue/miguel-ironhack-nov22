@@ -58,21 +58,21 @@ _https://chiamakaikeanyi.dev/how-to-write-good-git-commit-messages/_
 
 #### HTML - Semántica
 
-- <header> --> Encabezado
-- <footer> --> Pie de página
-- <nav> --> Menú de navegación
-- <section> --> Agrupación de contenido extenso
-- <div> --> Crear secciones y agrupación de contenido concreto
-- <article> --> Comentarios de usuarios, forum posts..., parte independiente del documento
-- <aside> --> Contenido en menú de navegación, sidebar
-- <details> --> Información que el usuario puede cambiar/interactuar
-- <figure> --> Agrupar contenido gráfico
-- <mark> --> Agrupar contenido destacado
+- header> --> Encabezado
+- footer> --> Pie de página
+- nav> --> Menú de navegación
+- section> --> Agrupación de contenido extenso
+- div> --> Crear secciones y agrupación de contenido concreto
+- article> --> Comentarios de usuarios, forum posts..., parte independiente del documento
+- aside> --> Contenido en menú de navegación, sidebar
+- details> --> Información que el usuario puede cambiar/interactuar
+- figure> --> Agrupar contenido gráfico
+- mark> --> Agrupar contenido destacado
 - Otros
-  - <figcaption>
-  - <main>
-  - <summary>
-  - <time>
+  - figcaption>
+  - main>
+  - summary>
+  - time>
 
 ### D03
 
