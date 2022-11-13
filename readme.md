@@ -7,11 +7,15 @@ _https://chiamakaikeanyi.dev/how-to-write-good-git-commit-messages/_
 
 ## W01
 
-D01
-D02
-D03
-D04
-D05
+### D01
+
+### D02
+
+### D03
+
+### D04
+
+### D05
 
 ## W02
 
