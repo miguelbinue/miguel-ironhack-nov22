@@ -58,8 +58,8 @@ _https://chiamakaikeanyi.dev/how-to-write-good-git-commit-messages/_
 
 #### HTML - Semántica
 
-- header> --> Encabezado
-- footer> --> Pie de página
+- `<header>` --> Encabezado
+- `<footer>` --> Pie de página
 - nav> --> Menú de navegación
 - section> --> Agrupación de contenido extenso
 - div> --> Crear secciones y agrupación de contenido concreto
