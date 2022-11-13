@@ -6,3 +6,163 @@ Green: #00B172
 White: #FFF
 
 */
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* outline: 1px solid red; */
+}
+
+#navbar {
+    height: 60px;
+    background-color: #f4f4f4;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    position: fixed;
+    align-items: center;
+
+}
+
+#logo-image {
+    margin: 5px 20px;
+    block-size: 50%;
+}
+
+.navbar-letters {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0 15px 0 0;
+}
+
+.navbar-letters p {
+    padding: 0 15px;
+}
+
+.cover {
+    height: 500px;
+    background-image: url("../images/landing.jpg");
+    background-size: 100%;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.cover p {
+    padding: 20px;
+}
+
+section {
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+section h2 {
+    text-align: center;
+}
+
+section main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+section img {
+    width: 80px;
+    margin: 20px
+}
+
+main h3 {
+    color: #00B172
+}
+
+section main div {
+    text-align: center;
+}
+
+#middle p {
+    padding: 10px;
+}
+
+main p {
+    width: 200px;
+}
+
+footer {
+    height: 550px;
+    background-color: #00B172;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 0 3%
+}
+
+footer div {
+    width: 200px;
+}
+
+footer h2 {
+    width: 310PX;
+    border-bottom: solid 3px white;
+}
+
+footer div h3 {
+   color: white;
+}
+
+#bottom-logo {
+    width: 100px;
+    height: 100px;
+}
+
+#interface {
+    width: 240px;
+}
+
+.javascript-example {
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+}
+
+.js-background {
+    background-color: #00B172 !important;
+}
+
+@media only screen and (max-width: 600px) {
+   .navbar-letters {
+    background-image: url(https://assets.stickpng.com/images/588a6507d06f6719692a2d15.png);
+   }
+   
+   
+    #middle {
+        display: flex;
+        flex-direction: column;
+        
+    }
+
+    section {
+        height: 750px;
+        display: flex;
+        align-items: center;
+
+    }
+
+
+}
+
+
+
