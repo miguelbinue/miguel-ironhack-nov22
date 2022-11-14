@@ -16,10 +16,20 @@ for (let i = 0; i < myBio.hobby.length; i ++) {
 let num = 8;
 let str = "8";
 
-
 console.log(num == str);
 console.log(num === str);
 console.log(num < 18);
 console.log(num > 18);
 console.log(num >= 18);
 
+const user = "";
+
+if (user <= 5) {
+    console.log("Gratis");
+} else if (user < 15) {
+    console.log("tienes un 20%");
+} else if (user >= 15 && user <= 60) {
+    console.log("Pagan regular");
+} else {
+    console.log("40% descuento");
+}
