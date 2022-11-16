@@ -2,7 +2,7 @@
 
 _Esto es una recopilación de notas durante el curso de Front-end en Ironhack._
 
-Links útiles:
+Links útiles: :)
 
 - https://chiamakaikeanyi.dev/how-to-write-good-git-commit-messages/
 - https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax

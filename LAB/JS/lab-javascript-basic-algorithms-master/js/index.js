@@ -93,17 +93,27 @@ for (i = 0; i < array.length; i++) {
 // EJERCICIO - 002
 // Creamos un array de strings con nombres de personajes famosos. Lo vamos a recorrer todo e imprimiremos la misma frase para cada uno (algo como "X is so famous, I love them.").
 
-let p1= "Ryan Reynolds"
+// let p1= "Ryan Reynolds"
 
-let p2= "Misty"
+// let p2= "Misty"
 
-let p3 = "Mr.Bean"
+// let p3 = "Mr.Bean"
 
-const array2 = [p1, p2, p3]
+// const array2 = [p1, p2, p3]
 
-for (i = 0; i < array2.length; i++) {
-    console.log(`${array2[i]} is so famous, i love them`);
-}
+// for (i = 0; i < array2.length; i++) {
+//     console.log(`${array2[i]} is so famous, i love them`);
+// }
 
 
+// //Crea una función que añada el primer elemento al principio de un array y el segundo elemento al final del mismo array.
+// ya estos metodosNativo de Array existen :)
+
+let element1 = "CarolB";
+let element2 = "sr.calella"
+
+const array4 = ["CarolB", "sr.calafell"]
+const emptyArray = [];
+
+function function1()
 
