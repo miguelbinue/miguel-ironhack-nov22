@@ -84,13 +84,17 @@ Links útiles: :)
 
 ### D05
 
-## W02
+## W02 - JavaScript
 
-D01
-D02
-D03
-D04
-D05
+### D01 - Conditionals
+
+### D02 - Functions and Arrays
+
+### D03 - DOM & Events
+
+### D04 - Array methods
+
+### D05 - Promises & callbacks
 
 ## W03
 
