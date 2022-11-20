@@ -99,7 +99,7 @@ Links útiles: :)
 - Symbol
 ```
 
------**Numbers & Strings**-----
+-------------------------**Numbers & Strings**-------------------------
 
 `.length` --> Te coge un valor numérico
 `.indexOf(substr)` --> Devuelve un valor de la posición de la string. Si no está, devuelve -1
@@ -110,7 +110,7 @@ Links útiles: :)
 `endsWith()`
 `includes()`
 
------**Boolean, Undefined & Null**-----
+-------------------------**Boolean, Undefined & Null**------------------------------
 
 ### D02 - Functions and Arrays
 
