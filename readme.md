@@ -88,6 +88,30 @@ Links útiles: :)
 
 ### D01 - Conditionals
 
+#### Data types in JavaScript
+
+```
+- Number: 26
+- String: '26'
+- Boolean: true
+- Null
+- Undefined
+- Symbol
+```
+
+-----**Numbers & Strings**-----
+
+`.length` --> Te coge un valor numérico
+`.indexOf(substr)` --> Devuelve un valor de la posición de la string. Si no está, devuelve -1
+`.slice(num1, num2)` --> Coge un segmento, si este existe, de una string determinada por dos posiciones
+`localeCompare()` --> Compara tamaños de strings y devuelve 1 si es >, -1 si es < o 0 si es =
+
+`startsWith()`
+`endsWith()`
+`includes()`
+
+-----**Boolean, Undefined & Null**-----
+
 ### D02 - Functions and Arrays
 
 ### D03 - DOM & Events
