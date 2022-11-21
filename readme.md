@@ -125,7 +125,7 @@ Links útiles: :)
 - `.then`
 - `.catch`
 - `.finally`
-- `![Image text](https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/javascript/promises-2.png)`
+  ![Image text](https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/javascript/promises-2.png)
 - `Promise.all()`
 
 #### Async
