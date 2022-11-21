@@ -101,14 +101,14 @@ Links útiles: :)
 
 -------------------------**Numbers & Strings**-------------------------
 
-`.length` --> Te coge un valor numérico
-`.indexOf(substr)` --> Devuelve un valor de la posición de la string. Si no está, devuelve -1
-`.slice(num1, num2)` --> Coge un segmento, si este existe, de una string determinada por dos posiciones
-`localeCompare()` --> Compara tamaños de strings y devuelve 1 si es >, -1 si es < o 0 si es =
+- `.length` --> Te coge un valor numérico
+- `.indexOf(substr)` --> Devuelve un valor de la posición de la string. Si no está, devuelve -1
+- `.slice(num1, num2)` --> Coge un segmento, si este existe, de una string determinada por dos posiciones
+- `localeCompare()` --> Compara tamaños de strings y devuelve 1 si es >, -1 si es < o 0 si es =
 
-`startsWith()`
-`endsWith()`
-`includes()`
+- `startsWith()`
+- `endsWith()`
+- `includes()`
 
 -------------------------**Boolean, Undefined & Null**------------------------------
 
@@ -119,6 +119,18 @@ Links útiles: :)
 ### D04 - Array methods
 
 ### D05 - Promises & callbacks
+
+#### Promises
+
+- `.then`
+- `.catch`
+- `.finally`
+- `![Image text] (https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/javascript/promises-2.png)`
+- `Promise.all()`
+
+#### Async
+
+####
 
 ## W03
 
