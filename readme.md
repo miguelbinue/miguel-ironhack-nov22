@@ -125,12 +125,17 @@ Links útiles: :)
 - `.then`
 - `.catch`
 - `.finally`
-  ![Image text](https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/javascript/promises-2.png)
 - `Promise.all()`
+  ![Image text](https://education-team-2020.s3.eu-west-1.amazonaws.com/web-dev/javascript/promises-2.png)
 
-#### Async
+#### Asynchronic & Delays
 
-####
+- `setTimeout()
+- `setInterval()`
+
+#### Async | Await
+
+Es una sintaxis más leíble que las anteriores
 
 ## W03
 
