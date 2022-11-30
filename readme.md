@@ -145,13 +145,17 @@ D03
 D04
 D05
 
-## W04
+## W04 Vue
 
-D01
-D02
-D03
-D04
-D05
+### D01 Vue templates | Entender la estructura
+
+### D02
+
+### D03
+
+### D04
+
+### D05
 
 ## W05
 

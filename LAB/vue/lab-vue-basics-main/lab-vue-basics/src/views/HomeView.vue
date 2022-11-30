@@ -1,9 +1,15 @@
 <script setup>
-import TheWelcome from '../components/TheWelcome.vue'
+
+function suma(num1, num2) {
+  return num1 + num2;
+}
+let totalSum = suma(2, 3);
+
+
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+<p>suma = {{ totalSum }}</p>
   </main>
 </template>
