@@ -1,5 +1,5 @@
 <template>
-  <li v-for ="titlePrint in posts" v-bind:class="{ 'red-text': titlePrint.isRed }">
+  <li v-for ="titlePrint in posts" v-bind:class="{ 'red-text': titlePrint.isRed }"> 
    {{ titlePrint.title }}
   </li>
 
